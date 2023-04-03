@@ -38,8 +38,8 @@ nav ul li a{
     border: 2px dashed white;
 }
 form{
-    border: 2px solid white;
-    border-radius: 6px;
+    /*border: 2px solid white;
+    border-radius: 6px;*/
     background-color: whitesmoke;
     align-items: center;
 }
