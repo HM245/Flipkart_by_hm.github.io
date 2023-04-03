@@ -41,8 +41,7 @@ form{
     /* padding: 0 0 6px; */
     border-radius: 6px;
     align-items: center;
-
-
+    color: black;
 }
 form a{
     text-decoration: none;
