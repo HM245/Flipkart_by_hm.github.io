@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital@1&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex-all-center{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    width: 100%;
+    background-color: blue;
+    font-family: 'Shantell Sans', cursive;
+}
+#l{
+   margin-left: 6vw; 
+   justify-content: left;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+nav ul{
+    /* height: 58px;
+    display: flex;
+    align-items: center; */
+    margin: auto;
+    /* justify-content: center; */
+}
+/* nav ul li{
+    padding: 0 23px 6px;
+} */
+nav ul li a{
+    
+    color: white;
+    text-decoration: none;
+    border: 2px dashed white;
+}
+form{
+    /* padding: 0 0 6px; */
+    border-radius: 6px;
+    align-items: center;
+
+
+}
+form a{
+    text-decoration: none;
+    background-color: whitesmoke;
+    border: 2px solid white;
+    border-radius: 6px;
+    color: black;
+}
+h1{
+text-align: center;
+color: white;
+}
+main{
+    font-family: 'Shantell Sans', cursive;
+    color: azure;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH1VJUddt3O1rF2ZrHsrPZ2HyswFZ-GJUytQ&usqp=CAU);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    /* display:grid;
+    grid-template-columns: 67vh;
+    grid-template-rows: 2vw; */
+    justify-content: center;
+    align-items: center;
+}
+.information{
+    font-family: 'Shantell Sans', cursive;
+    border: 20px double blue;
+    border-radius: 20px;
+    background-color:cadetblue
+}
+.logo{
+    display: flex;
+    color: white;
+}
+
+.container{
+    margin: 14px;
+    padding: 47px;
+    text-align: center;
+    display: inline-block;
+    border: 15px double whitesmoke;
+    border-radius: 8px;
+    justify-content: center;   
+}
+
+footer{
+    height: 12vh;
+    background-color: blue;
+    color: white;
+    font-family: 'Shantell Sans', cursive;
+}
+#important_links{
+    background-color: dimgrey;
+    align-items: center;
+    justify-content: center;
+}
+.links{
+    text-decoration: none;
+    color: antiquewhite;
+    font-family: 'Shantell Sans', cursive;
+}
+div ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Shantell Sans', cursive;
+}
