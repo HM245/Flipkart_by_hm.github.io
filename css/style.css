@@ -49,7 +49,7 @@ form{
     color: black;
 }
 ul button{
-    display: flex;
+    /* display: flex; */
     text-decoration: none;
     background-color: whitesmoke;
     border: 2px solid white;
