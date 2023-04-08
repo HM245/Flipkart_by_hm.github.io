@@ -51,10 +51,9 @@ form{
     color: black;
 }
 ul button{
-    /* display: flex; */
     text-decoration: none;
     background-color: whitesmoke;
-    border: 2px solid white;
+    border: 2px solid black;
     border-radius: 6px;
     color: black;
 }
