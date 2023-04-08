@@ -42,6 +42,12 @@ form{
     border-radius: 6px;*/
     background-color: whitesmoke;
     align-items: center;
+    display: flex;
+    text-decoration: none;
+    background-color: whitesmoke;
+    border: 2px solid white;
+    border-radius: 6px;
+    color: black;
 }
 form a{
     display: flex;
