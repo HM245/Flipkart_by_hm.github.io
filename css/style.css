@@ -44,6 +44,7 @@ form{
     align-items: center;
 }
 form a{
+    display: flex;
     text-decoration: none;
     background-color: whitesmoke;
     border: 2px solid white;
