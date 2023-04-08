@@ -40,11 +40,10 @@ nav ul li a{
 form{
     /*border: 2px solid white;
     border-radius: 6px;*/
+    display: flex;
     background-color: whitesmoke;
     align-items: center;
-    display: flex;
     text-decoration: none;
-    background-color: whitesmoke;
     border: 2px solid white;
     border-radius: 6px;
     color: black;
