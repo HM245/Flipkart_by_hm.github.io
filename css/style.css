@@ -53,7 +53,7 @@ form{
 button{
     text-decoration: none;
     background-color: whitesmoke;
-    border: 2px solid black;
+    border: 5px solid white;
     border-radius: 6px;
     color: black;
 }
