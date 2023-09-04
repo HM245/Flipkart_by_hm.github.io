@@ -86,8 +86,8 @@ main{
 }
 
 .container{
-    margin: 14px;
-    padding: 45px;
+    margin: 3px;
+    padding: 30px;
     text-align: center;
     display: inline-block;
     border: 15px double whitesmoke;
